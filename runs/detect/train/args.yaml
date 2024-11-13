@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8n.pt
-data: path/to/data.yaml
+data: street-work-3\data.yaml
 epochs: 50
 time: null
 patience: 100
