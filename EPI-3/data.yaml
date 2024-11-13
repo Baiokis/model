@@ -1,0 +1,19 @@
+names:
+- blue
+- glass
+- head
+- person
+- red
+- vest
+- white
+- yellow
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: epi-1qrdw
+  url: https://universe.roboflow.com/augusto-de-lara-projects/epi-1qrdw/dataset/3
+  version: 3
+  workspace: augusto-de-lara-projects
+test: ../test/images
+train: ../train/images
+val: ../valid/images
